@@ -1,0 +1,45 @@
+# site_name: My Docs
+
+site_name: Influencer App Docs
+theme:
+  name: material
+  # logo: ./lify_icon.png
+  features:
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.instant.preview
+    - navigation.footer
+
+  # favicon: ./lify_icon.png
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - tables
+
+# nav:
+#   - ./index.md
+#   - ./Background.md
+#   - ./Methodology.md
+#   - ./Competitor Analysis.md
+#   - ./Technological Advancements.md
+#   - ./User Benefits.md
+#   - ./Overcoming Challenges and Implementing solutions.md
+#   - ./Future Developments.md
+#   - ./Ethical Considerations.md
+#   - ./User Guide.md
+#   - ./Conclusion.md
+#   # - ./Appendices.md
+#   - ./Similar Work.md
+#   # - ./Comparative analysis of similar products.md
+#   - ./Acknowledgments.md
+#   - ./References.md
+
+
+plugins:
+  - search
+
+extra:
+  generator: false
