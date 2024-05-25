@@ -39,7 +39,7 @@
 
 <img src="live_stream_1.jpg" width=150 >
 
-* Click on `Live Stream` section allows an influencer to go live and interact with their fans
+* Click on `Live Stream` section allows an influencer or partner to go live and interact with their fans
 
 <img src="live_stream_2.jpg" width=150 >
 <img src="live_stream_3.jpg" width=150 >
