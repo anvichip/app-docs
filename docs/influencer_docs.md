@@ -51,8 +51,8 @@
 <img src="request_1.jpg" width=150 >
 <img src="request_2.jpg" width=150 >
 
-* The request sections contains a list of users who have requested an interaction with the influencer
-* Call requests contains a list of call requests an influencer has received
+* The request sections contains a list of users who have requested an interaction with the influencer or partner
+* Call requests contains a list of call requests an influencer or partner has received
 * Collab requests contains a list of collaboration requests an influencer has received from other influencers
 
 
