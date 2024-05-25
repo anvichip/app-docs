@@ -26,7 +26,7 @@
 <img src="../image-3.png" width=150 >
 <img src="../image-5.png" width=150 >
 
-* Click on `Chat` to initiate a conversation with the influencer.
+* Click on `Chat` to initiate a conversation with the influencer/partner.
 
 <img src="../image-4.png" width=150 >
 <img src="./collab request.jpg" width=150 >
