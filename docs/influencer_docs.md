@@ -1,4 +1,4 @@
-# Influencers Docs
+# Partner Docs
 
 ## Profile
 <img src="profile_1.jpg" width=150 >

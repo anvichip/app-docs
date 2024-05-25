@@ -1,4 +1,4 @@
-# Influencer Onboarding
+# Partner Onboarding
 
 ## Login as a User
 
@@ -7,41 +7,43 @@
 
 <img src="../image-9.png" width=150 >
 
-* Click on `my account` .
+* Click on `Settings`
+* Then, click on `Account` .
 
-<img src="../image-10.png" width=150 >
+<img src="partner_register.jpg" width=150 >
 
-* Click on `Register as an Influencer.`
+* Click on `Register as an Partner.`
 
 ## Phone number verification 
-<img src="./image-5.png" width=150 >
+<img src="partner_register_2.jpg" width=150 >
 
-* click on `Update now`
+* click on `Update Now`
 
-<img src="./image-6.png" width=150 >
+<img src="partner_register_3.jpg" width=150 >
 
 * Enter your phone number and tap `Continue`.
 
-<img src="./image-7.png" width=150 >
 
-* wait for otp verification.
+* An OTP will be sent to your number via SMS.
+* Enter the for OTP as received for verification.
 
 <img src="./image-8.png" width=150 >
 
 * Enter the otp and click `verify`.
-* Exit to the previous screen and click `Register as an Influencer` again.
+* Exit to the previous screen and click `Register as a Partner` again.
 
 ## Entering relevant details.
-<img src="../image-13.png" width=150 >
-<img src="../image-14.png" width=150 >
+<img src="partner_register_form.jpg" width=150 >
+<img src="partner_register_form_2.jpg" width=150 >
 
-* Enter the required details.
+* Here, users have the option to choose between becoming an `expert` or an `influencer`.
+* Then, they have to choose the category they specialize in.
+* After entering all the required details, click on `Submit`.
 
-<img src="./details_submitted.png" width=150 >
 
 ## Identity verification and supporting documents.
 
-<img src="./supporting_docs.png" width=150 >
+<img src="partner_register_form_3.jpg" width=150 >
 
-* Here , users can upload their identity documents to support their verification process.
+* Here, users can upload their identity documents to support their verification process.
 * Our onboarding representatives will get in touch with to user to assist in this process.

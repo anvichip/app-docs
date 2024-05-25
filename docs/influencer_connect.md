@@ -1,4 +1,4 @@
-# Connecting with Influencers
+# Connecting with Influencers/Experts
 
 ## Influencer Profile
 <img src="home_page.jpg" width=150 >
@@ -7,7 +7,7 @@
 
 <img src="./influencer_profile.jpg" width=150 >
 
-* Click on `Chat` to initiate a conversation with the influencer.
+* Click on `Chat` to initiate a conversation with the influencer/expert.
 
 <img src="./image-1.png" width=150 >
 
@@ -28,7 +28,7 @@
 <img src="./req_pending.png" width=150 >
 <img src="./req_approved.png" width=150 >
 
-* This will trigger a request to the influencer.
+* This will trigger a request to the influencer/partner.
 
 <img src="./enter_video_call.png" width=150 >
 <img src="./notif.png" width=150 >
@@ -49,7 +49,7 @@
 
 <img src="./history.png" width=150 >
 
-## Rating Influencers
+## Rating Influencers/Partners
 
 <img src="./rate.png" width=150 >
 
