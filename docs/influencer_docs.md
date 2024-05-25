@@ -14,7 +14,7 @@
 ## Featured Videos
 <img src="edit_video_1.jpg" width=150 >
 
-* Influencers can edit featured videos from their profile page by clicking on the edit icon on the top right
+* Influencers/Partners can edit featured videos from their profile page by clicking on the edit icon on the top right
 
 <img src="edit_video.jpg" width=150 >
 
