@@ -32,7 +32,7 @@
 <img src="./collab request.jpg" width=150 >
 
 
-* Clicking on `Collabs` can intiate a collab request with another influencer
+* Clicking on `Collabs` can intiate a collab request with another influencer/partner
 
 
 ## Live Stream
