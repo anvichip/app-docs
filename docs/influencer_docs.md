@@ -44,7 +44,7 @@
 <img src="live_stream_2.jpg" width=150 >
 <img src="live_stream_3.jpg" width=150 >
 
-* After providing necessary camera and mic permissions, influencer has to click on `Go live`
+* After providing necessary camera and mic permissions, influencer/partner has to click on `Go live`
 
 ## Requests
 
