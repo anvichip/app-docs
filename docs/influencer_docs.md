@@ -61,5 +61,5 @@
 <img src="inf_cred2.jpg" width=150 >
 
 
-* Influencers & Partners can view their earnings and related stats.
+* Influencers & partners can view their earnings and related stats.
 * They can adjust the days as update bank details as well.
