@@ -53,7 +53,7 @@
 
 * The request sections contains a list of users who have requested an interaction with the influencer or partner
 * Call requests contains a list of call requests an influencer or partner has received
-* Collab requests contains a list of collaboration requests an influencer has received from other influencers
+* Collab requests contains a list of collaboration requests an influencer or partner has received from other influencers
 
 
 ## Earnings
