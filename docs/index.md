@@ -17,7 +17,7 @@
 
 <img src="home page.jpg" width=150 >
 <img src="influencer_profile_1.jpg" width=150 >
-<img src="influencer_profile_1.jpg" width=150 >
+<img src="influencer_profile_2.jpg" width=150 >
 
 * Home page consists of a list of all the available influencers that and their profiles
 * View profile button is ued view the influencer's profile
