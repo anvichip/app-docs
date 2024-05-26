@@ -26,16 +26,10 @@
 
 ## Settings Menu
 
-* Clicking on the side menu button on the home page will navigate the user to the `Setings Menu`.
+* Clicking on the side menu button on the home page and then clicking on `Settings` will navigate the user to the `Setings Menu`.
 
 <img src="./setting_home.jpg" width=150 >
 
-
-## Settings
-
-<img src="./settings.jpg" width=150 >
-
-* User can change App notification and Update preferences
 
 ### Account Settings 
 <img src="./account settings.jpg" width=150 >
