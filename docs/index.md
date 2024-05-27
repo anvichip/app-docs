@@ -4,7 +4,7 @@
 
 <img src="sign up.jpg" width=150 >
 
-* This is the sign-up page for users and influencers to start off with influencer-talk
+* This is the sign-up page for users and influencers to start off with Tawx
 * Users can sign up using their phone number/E-mail ID, entering their Full Name and password
 * They can also choose to authenticate using their Google Account
 

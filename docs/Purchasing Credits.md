@@ -1,4 +1,4 @@
-# Credits: The influencer talk currency
+# Credits: The Tawx app currency
 
 ## Credits 
 
@@ -9,7 +9,7 @@
 
 * Click on the `Credits` or coin like icon at the top of the home screen.
 
-<img src="./credit_icon.png" width=150 >
+<img src="credit_icon.jpg" width=150 >
 
 * Tapping on this icon will take the user to the `Plans Section`.
 
