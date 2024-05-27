@@ -1,7 +1,7 @@
 # Connecting with Influencers/Experts
 
 ## Influencer Profile
-<img src="home_page.jpg" width=150 >
+<img src="home page.jpg" width=150 >
 
 * Navigate to the home page and tap `view profile`.
 

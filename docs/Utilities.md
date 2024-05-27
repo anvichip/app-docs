@@ -6,7 +6,7 @@
 
 ## Edit Details
 
-<img src="./edit details.jpg" width=150 >
+<img src="edit details.png" width=150 >
 
 * User can change their Name, Gender and Age
 
@@ -52,7 +52,8 @@
 ### Privacy Policy
 
 
-<img src="./privacy policy.jpg" width=150 >
+<img src="privacy policy.jpg" width=150 >
+<img src="tc.jpg" width=150 >
 
 
 * User can read on the app usage privacy policy and terms and conditions for using the app

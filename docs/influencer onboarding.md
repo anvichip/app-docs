@@ -5,7 +5,7 @@
 * To register as an Influencer, first login as a normal user.
 * Navigate to home page and click on the 3 dot menu near the coin icon at the top.
 
-<img src="../image-9.png" width=150 >
+<img src="side_menu.jpg" width=150 >
 
 * Click on `Settings`
 * Then, click on `Account` .
