@@ -7,7 +7,8 @@
 
 <img src="./influencer_profile.jpg" width=150 >
 
-* Click on `Chat` to initiate a conversation with the influencer/expert.
+* Click on `Follow` to get alerts and notifications for that influencer/expert.
+* Click on `Message` to initiate a chat with that influencer/expert.
 
 <img src="./image-1.png" width=150 >
 
@@ -81,5 +82,17 @@
 <img src="./no_notifs.jpg" width=150 >
 <img src="./with_notifs.png" width=150 >
 
+## Report Influencer/Expert
 
+* This feature is used to report any inappropriate content or activity of the Tawx platform
+
+<img src="influencer_profile.jpg" width=150 >
+
+* Clicking on the `report` symbol at the top right of the screen will open up the form to report the influencer/expert
+
+<img src="report_profile.jpg" width=150 >
+
+* The option is also available on the chat page of the influencer/expert
+
+<img src="report_chat.jpg" width=150 >
 

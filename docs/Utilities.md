@@ -47,16 +47,25 @@
 
 * User can change the settings of alerts and notifcations of the app using this menu
 
+### Partner Agreement
 
 
-### Privacy Policy
+<img src="partner_agreement.jpg" width=150 >
 
 
-<img src="privacy policy.jpg" width=150 >
-<img src="tc.jpg" width=150 >
+* It contains the rules and regulations that a partner has to abide by to use the Tawx platform
 
 
-* User can read on the app usage privacy policy and terms and conditions for using the app
+
+### Policies
+
+
+<img src="p1.jpg" width=150 >
+<img src="p2.jpg" width=150 >
+<img src="p3.jpg" width=150 >
+
+
+* User can read on the app usage privacy policy, terms and conditions & the cacellation and refund policy for using the Tawx app
 
 
 ### App Info
